@@ -98,7 +98,7 @@ really wanted a kind of casual dungeon master simulator. I was docked points for
 sometimes DMs need an outlet, too :)
 
 
-## Dungeon Master
+## Shop Keep
 
 **Theme:** The Weather. (Player choices are governed by "weather", a somewhat chaotic system with an overlooming climate)
 
