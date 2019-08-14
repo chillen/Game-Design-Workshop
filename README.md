@@ -25,7 +25,7 @@ the appearance of the plant in some way. Each day you can adjust either the soil
 with another botanist's plant and their growth conditions. Within five days, you have to identify which traits associate
 with which conditions and grow the ultimate plant!
 
-![Five Days to Grow Gameplay](#todo)
+![Five Days to Grow Gameplay](https://raw.githubusercontent.com/chillen/Game-Design-Workshop/master/FiveDaysGameplay.gif)
 
 **Critiques:** The main critique is replayability. There isn't any replayability. While the traits can be randomized,
 and the objective is changing, once you figure out the easy objective you stop making meaningful choices and begin to 
@@ -54,7 +54,7 @@ In Dim Light, you move to the right and control the amount of light coming off o
 you become and the more you can see. You stumble upon people who ask for food or oil to keep warm and make it out alive while you
 move ever further into the caves. 
 
-![Dim Light Gameplay](#todo)
+![Dim Light Gameplay](https://raw.githubusercontent.com/chillen/Game-Design-Workshop/master/DimLightGameplay.gif)
 
 **Critiques:** There really isn't a lot of gameplay here, with the theme bringing up feelings of depression and hopelessness.
 The player isn't making any *really* meaningful choices, even if it might seem like it, since the outcome is "Die now or die later".
@@ -79,7 +79,7 @@ map has various entities (traps, useful items, keys, and monsters). The only way
 describe the map for them and hope that you can appeal to their senses to convince them to go the right direction without getting
 wiped out. Guide them to keys, important items, and protect them from harm as best as you can before they make it to the big bad.
 
-![Dungeon Master Gameplay](#todo)
+![Dungeon Master Gameplay](https://raw.githubusercontent.com/chillen/Game-Design-Workshop/master/DungeonMasterGameplay.gif)
 
 **Critiques:** I really think this was a cool idea, but the execution wasn't great. The basic idea of *appealing to* NPC personalities
 as your primary interaction was reworked into my [honour's project](#todo) making use of symbols rather than phrases. Phrases
@@ -109,7 +109,7 @@ ShopKeep is a game where you *exclusively* run a shop, collecting rumours from a
 the best items to stock. They come to you with stories, they describe their battles, and they sell you their junk. It's up to you
 to track sales and sort out who is going to make it out on top.
 
-![Shop Keep Gameplay](#todo)
+![Shop Keep Gameplay](https://raw.githubusercontent.com/chillen/Game-Design-Workshop/master/ShopKeepGameplay.gif)
 
 **Critiques:** I really love NPC manipulation games. It's a running theme. Unfortunately I wasn't able to get those mechanics
 into the prototype. At the moment, the game's pretty random but doesn't punish you very hard for not catching on to the big bad.
